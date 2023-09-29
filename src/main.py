@@ -18,7 +18,7 @@ def main():
     # loading the model
     _MODEL_PATH = None
     email_text = args.input
-    classification_result = classify_email_function(email_text, model_path)
+    classification_result = classify_email_function(email_text, _MODEL_PATH)
 
     # outputting the classification result
     if args.output:
