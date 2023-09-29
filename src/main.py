@@ -1,7 +1,7 @@
 
 import argparse
 import logging
-from your_classification_module import classify_email_function
+from mail_classifier import classify_email_function
 
 # setting up the logging
 logging.basicConfig(level=logging.INFO)
