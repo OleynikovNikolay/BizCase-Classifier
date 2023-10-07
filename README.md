@@ -10,7 +10,7 @@ A subset of approximately 1,700 emails from this dataset was labeled and annotat
 For additional information and access to the dataset, you can refer to the following sources:
 
 
-
+## Resources
 Enron Email Dataset: https://bailando.berkeley.edu/enron_email.html
 
 Additional Enron Data Resources [UC Berkeley]: https://www.cs.cmu.edu/~./enron/
