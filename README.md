@@ -7,10 +7,10 @@ This AI model is based on the Enron email dataset, which comprises around 500,00
 
 A subset of approximately 1,700 emails from this dataset was labeled and annotated by students at the University of California, Berkeley, further enriching the dataset for research and development purposes.
 
-For additional information and access to the dataset, you can refer to the following sources:
-
 
 ## Resources
+For additional information and access to the dataset, you can refer to the following sources:
+
 Enron Email Dataset: https://bailando.berkeley.edu/enron_email.html
 
 Additional Enron Data Resources [UC Berkeley]: https://www.cs.cmu.edu/~./enron/
