@@ -1,5 +1,5 @@
 # BizCase-Classifier :robot: :email:
-The CLI AI Classification Tool is a powerful utility designed to streamline and enhance the process of categorizing email correspondence into distinct business cases. Leveraging the capabilities of artificial intelligence, this tool provides an efficient and automated solution for managing email communication within professional contexts.
+The CLI AI Classification Tool is a utility designed to streamline and enhance the process of categorizing email correspondence into distinct business cases. Leveraging the capabilities of artificial intelligence, this tool provides an automated solution for managing email communication within professional contexts.
 
 
 ## Background
