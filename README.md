@@ -1,6 +1,9 @@
 # BizCase-Classifier :robot: :email:
 The CLI AI Classification Tool is a utility designed to streamline and enhance the process of categorizing email correspondence into distinct business cases. Leveraging the capabilities of artificial intelligence, this tool provides an automated solution for managing email communication within professional contexts.
 
+## Development Status
+in development. 
+
 
 ## Background
 This AI model is based on the Enron email dataset, which comprises around 500,000 messages. Originally made public during the Federal Energy Regulatory Commission's investigation, the dataset was carefully prepared by the CALO Project (Cognitive Assistant that Learns and Organizes).
@@ -14,6 +17,3 @@ For additional information and access to the dataset, you can refer to the follo
 Enron Email Dataset: https://bailando.berkeley.edu/enron_email.html
 
 Additional Enron Data Resources [UC Berkeley]: https://www.cs.cmu.edu/~./enron/
-
-## Development Status
-in development.
